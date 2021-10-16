@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XiiiC (Hardijs)
-- 👀 I’m interested in ... Game Dev, VR, AI
+- 👀 I’m interested in ... Game Dev, VR, AI, Web Dev
 - 🌱 I’m currently learning ... VR Game Development
 - 📫 How to reach me ... Discord: XiC#8623 
 
